@@ -1,14 +1,28 @@
 ## AurianeG
+Etudiante en informatique, spécialisée en développement de jeux vidéo
 
-### Mes Projets : 
+Je cherche un stage de 22 semaines (~6 mois) avec un début entre juillet et octobre.
+Je cherche en France et au Canada, mais je reste ouverte a d'autres opportunités en Europe
+- [LinkedIn](https://www.linkedin.com/in/auriane-gonindard-218242235/)
+- [itch.io](https://aurianeg.itch.io/) pour tous les jeux que j'ai fait.
+
+### Mes Projets sur GitHub : 
 
 - [Un projet de vitrine pour une boutique en ligne, initialement fait sur la forge de lyon1(web)](https://github.com/AurianeG/ISIWEB4SHOP)
 - [Un projet d'automates cellulaire (jeu de la vie, simulation d'un feu de forêt, ...) en Java](https://github.com/rrrroo/APO_Automates)
 - [Un jeu de Sokoban en Java](https://github.com/rrrroo/Sokoban)
-- [Une application VR qui donne la météo(Unity)](https://github.com/AurianeG/Meteo3D)
+- [Une application VR qui donne la météo (Unity)](https://github.com/AurianeG/Meteo3D)
 
-### En cours :
-- [Un jeu avec des ptit bateau (Godot)](https://github.com/OtchiTan/juste-le-boat-en-faite)
+### Langages : 
+- C++
+- C#
+- Java
+- Python
+- HTML, CSS, PHP
+- SQL
 
-### Ma page itch.io pour les autres projets
-[https://aurianeg.itch.io/](https://aurianeg.itch.io/)
+### Moteurs utilisés : 
+- Unreal Engine 5
+- Godot
+- Unity
+
