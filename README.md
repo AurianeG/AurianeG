@@ -13,6 +13,10 @@ Je cherche en France et au Canada, mais je reste ouverte a d'autres opportunité
 - [Un jeu de Sokoban en Java](https://github.com/rrrroo/Sokoban)
 - [Une application VR qui donne la météo (Unity)](https://github.com/AurianeG/Meteo3D)
 
+### Projets en cours : 
+- [Une application pour jouer au mao (godot)](https://github.com/AurianeG/Mao)
+- [Un petit jeu de bateau pour me familiariser avec Unity](https://github.com/AurianeG/FlappyBoat)
+
 ### Langages : 
 - C++
 - C#
