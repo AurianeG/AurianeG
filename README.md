@@ -1,8 +1,8 @@
 ## AurianeG
 Etudiante en informatique, spécialisée en développement de jeux vidéo
 
-Je cherche un stage de 22 semaines (~6 mois) avec un début entre juillet et octobre.
-Je cherche en France et au Canada, mais je reste ouverte a d'autres opportunités en Europe
+Je cherche un stage de 6 mois avec un début dès que possible
+Je cherche en France et au Canada, mais je reste ouverte a d'autres opportunités en Europe ou en full remote
 - [LinkedIn](https://www.linkedin.com/in/auriane-gonindard-218242235/)
 - [itch.io](https://aurianeg.itch.io/) pour tous les jeux que j'ai fait.
 
